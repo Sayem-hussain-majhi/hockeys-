@@ -1,0 +1,25 @@
+.heading{
+    font-size: 34px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.subHeading{
+    font-size: small;
+    text-align: center;
+}
+
+.gradient{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.404)), url(../Images/2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.gradient2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.404)), url(../Images/3.png);
+}
+.gradient3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.404), rgba(0, 0, 0, 0.404)), url(../Images/4.png);
+}
